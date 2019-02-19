@@ -72,7 +72,7 @@ PNG123	4.93
 
 Samples 1 -2 
 
-### Protocol (w/ notes):**
+### Protocol (w/ notes):
 
 Same as above, except:
 
